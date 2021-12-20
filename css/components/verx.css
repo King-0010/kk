@@ -1,0 +1,29 @@
+.first{
+    background-color: rgba(128, 128, 128, 0.082);
+    height: 100px;
+}
+.header_wr{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+.header_wr  a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.log > h1{
+    font-size: 30px;
+}
+.log2 > a {
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.log2 > a:hover{
+    color: coral;
+    transition: 1s;
+}
